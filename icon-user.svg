@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+  <g id="icon-user" transform="translate(-4333 -5914)">
+    <g id="Container" transform="translate(4333 5914)" fill="#e7eaef" stroke="rgba(76,80,115,0.16)" stroke-width="3">
+      <rect width="96" height="96" rx="48" stroke="none"/>
+      <rect x="1.5" y="1.5" width="93" height="93" rx="46.5" fill="none"/>
+    </g>
+    <g id="Icon_feather-user" data-name="Icon feather-user" transform="translate(4359 5939.5)">
+      <path id="Path_73" data-name="Path 73" d="M38,34.5v-4a8,8,0,0,0-8-8H14a8,8,0,0,0-8,8v4" transform="translate(0 6)" fill="none" stroke="#4b5076" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      <path id="Path_74" data-name="Path 74" d="M28,12.5a8,8,0,1,1-8-8,8,8,0,0,1,8,8Z" transform="translate(2 0)" fill="none" stroke="#4b5076" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+    </g>
+  </g>
+</svg>

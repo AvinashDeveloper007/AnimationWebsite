@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+.container-fluid {
+  padding: 20px;
+}
+.bg-darker {
+  background-color: #090026;
+}
+.nav-container li a {
+  color: white;
+  padding: 0 10px;
+}
+.nav-item{
+  margin-right: 10px;
+}
+.nav-link{
+  background-color: #3a393b;
+
+  border-radius: 4px;
+}
+.nav-link:hover{
+  color: #fff;
+  background-color: #242425;
+}
